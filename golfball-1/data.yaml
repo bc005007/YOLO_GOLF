@@ -1,0 +1,26 @@
+names:
+- Ball
+- Chromesoft_x_ls
+- Golf-ball
+- Prov1
+- Prov1x
+- TARGET
+- Tp5
+- Tp5x
+- ball
+- balle blanche
+- balle jaune
+- blueBall
+- golf
+- golf ball
+- golfball
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: golfball-crji6
+  url: https://universe.roboflow.com/school-eihku/golfball-crji6/dataset/1
+  version: 1
+  workspace: school-eihku
+test: ../test/images
+train: ../train/images
+val: ../valid/images
